@@ -1,0 +1,52 @@
+.Websitename{
+     font-family: "Comic Sans MS", cursive, sans-serif;
+     text-align: justify;
+     text-align: center;
+     background-color: #111 ;
+     color:white; 
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+body {
+    background-image: url("http://blog.hostbaby.com/wp-content/uploads/2014/03/Trees_1920x1234.png");
+    background-color: #cccccc;
+
+}
+
+.damn{
+      display: block;
+    text-align: center;
+    font-size: 25px;
+    font-style: "Comic Sans MS", cursive, sans-serif;
+
+}
+
+img{
+    margin: auto;
+     border: 3px solid green;
+    padding: 10px;
+    display: block;}

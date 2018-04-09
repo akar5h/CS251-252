@@ -1,0 +1,212 @@
+AKARSH@DESKTOP-T3JQBS9 MINGW64 ~/Documents/CS251/assignment 10/cs251-git/cs251-git (master)
+$ git log
+commit ffa120fe91f45cca11ac550446d699c5da5cf13c
+Merge: 2dd3548 de3c53a
+Author: megha <agarwalmegha1308@gmail.com>
+Date:   Sun Apr 2 23:53:14 2017 +0530
+
+    Merge branch 'master' of https://github.com/sourishk/cs251-git
+
+commit 2dd35486a2087aa4b2fb536b0da7c0da31660a44
+Merge: 7e94782 991a112
+Author: megha <agarwalmegha1308@gmail.com>
+Date:   Sun Apr 2 23:52:30 2017 +0530
+
+    resolved conflict
+
+commit de3c53ab1535d024db55c4cc144fad6add7ece39
+Author: Sourish <savi24k@yahoo.in>
+Date:   Sun Apr 2 23:49:38 2017 +0530
+
+    idk
+
+commit 7e947825f880d8d476680ff24e6847af9939949c
+Merge: b5fc553 18b9c6a
+Author: megha <agarwalmegha1308@gmail.com>
+Date:   Sun Apr 2 23:48:17 2017 +0530
+
+    Merge branch 'master' of https://github.com/sourishk/cs251-git
+
+commit b5fc553edb102e16c60c906545cf941312bf6cb3
+Author: megha <agarwalmegha1308@gmail.com>
+Date:   Sun Apr 2 23:48:10 2017 +0530
+
+    added title
+
+commit 18b9c6a098517cec524be2b1870d511a084d5bcd
+Merge: f945f0f a07d6b0
+Author: Sourish <savi24k@yahoo.in>
+Date:   Sun Apr 2 23:44:02 2017 +0530
+
+    Merge branch 'master' of https://github.com/sourishk/cs251-git
+
+commit f945f0f36f4bc747eb7a4a07179b135aa6b740a2
+Merge: 054b74e eb8b806
+Author: Sourish <savi24k@yahoo.in>
+Date:   Sun Apr 2 23:43:26 2017 +0530
+
+    issue resolve
+
+commit a07d6b0cea22fa0388f23332a8b3c94c292bc0b4
+Author: megha <agarwalmegha1308@gmail.com>
+Date:   Sun Apr 2 23:42:13 2017 +0530
+
+    review paan singh
+
+commit 054b74e053617ee999ee3cc2482ecc10720104e7
+Merge: 4f0765d 256aa68
+Author: Sourish <savi24k@yahoo.in>
+Date:   Sun Apr 2 23:39:34 2017 +0530
+
+    Mumbai must be one of shooting locations
+
+commit eb8b80638f8595ce8d164f3ae389c48d47bbd0d8
+Merge: efc77eb 256aa68
+Author: megha <agarwalmegha1308@gmail.com>
+Date:   Sun Apr 2 23:38:25 2017 +0530
+
+    added finla city names by resolving conflict
+
+commit 256aa6825aa8593e2be3e59dfcb11d5dfcb8d015
+Merge: 712dcc6 28b947d
+Author: Akarsh Gajbhiye <Akarsh Gajbhiye>
+Date:   Sun Apr 2 23:36:27 2017 +0530
+
+    its really irritating now
+
+commit 712dcc668f9324919b7c1ed118acaa843ee59cdd
+Author: Akarsh Gajbhiye <Akarsh Gajbhiye>
+Date:   Sun Apr 2 23:34:09 2017 +0530
+
+    changed mexican
+
+commit efc77eb0a4b733e7f0528f08d0693f55f41af0e5
+Author: megha <agarwalmegha1308@gmail.com>
+Date:   Sun Apr 2 23:33:21 2017 +0530
+
+    changed city name
+
+commit 4f0765df71068118778cf556b79d842d18a3ba07
+Merge: 9703636 28b947d
+Author: Sourish <savi24k@yahoo.in>
+Date:   Sun Apr 2 23:33:01 2017 +0530
+
+    Merge branch 'master' of https://github.com/sourishk/cs251-git
+
+commit 9703636f4c255927ff34e5ce0a829445ab3feb11
+Author: Sourish <savi24k@yahoo.in>
+Date:   Sun Apr 2 23:32:05 2017 +0530
+
+    city changed
+
+commit 28b947d950da5bba5c6dc70f4dc16cc779a1b41b
+Author: megha <agarwalmegha1308@gmail.com>
+Date:   Sun Apr 2 23:31:58 2017 +0530
+
+    added ending
+
+commit 7b3cd4668a958703a32e4da57f9e07cd472bd14f
+Author: Sourish <savi24k@yahoo.in>
+Date:   Sun Apr 2 23:30:14 2017 +0530
+
+    removing repetetion
+
+commit 991a112badf14b0702db13fbe47e5780a91ee678
+Author: megha <agarwalmegha1308@gmail.com>
+Date:   Sun Apr 2 23:28:51 2017 +0530
+
+    rectified
+
+commit c953a688144c1627da1605cd2815618ed6e4fe0f
+Merge: f74d603 a8c18e6
+Author: Akarsh Gajbhiye <Akarsh Gajbhiye>
+Date:   Sun Apr 2 23:27:18 2017 +0530
+
+    its getting irritating
+
+commit f74d6037ff51fe3a68e24be2c243062fa430f5c8
+Author: Akarsh Gajbhiye <Akarsh Gajbhiye>
+Date:   Sun Apr 2 23:24:47 2017 +0530
+
+    Second Moviw
+
+commit a8c18e61d1754f261a72df678662c12ebe32885b
+Merge: ab986b3 49e281a
+Author: megha <agarwalmegha1308@gmail.com>
+Date:   Sun Apr 2 23:20:32 2017 +0530
+
+    Merge branch 'master' of https://github.com/sourishk/cs251-git
+
+commit ab986b3e070d707d61e19120a6e7679a94d67e29
+Author: megha <agarwalmegha1308@gmail.com>
+Date:   Sun Apr 2 23:20:09 2017 +0530
+
+    detailed analysis of movie
+
+commit 49e281a484fc07a14889b66b1407a89ffe04208a
+Author: Sourish <savi24k@yahoo.in>
+Date:   Sun Apr 2 23:18:28 2017 +0530
+
+    1st change by Sourish
+
+commit a3525de51b3a2bef56ec37bde03c599d8476d8b0
+Author: Sourish <savi24k@yahoo.in>
+Date:   Sun Apr 2 23:15:32 2017 +0530
+
+    Introducing File
+
+commit 7a80a03d6540b555aff0accdc2f94f958c47b626
+Author: Sourish <savi24k@yahoo.in>
+Date:   Sun Apr 2 23:02:54 2017 +0530
+
+    Delete new
+
+commit f923dae9f761b4eed50937290b19340ec653c434
+Author: Sourish <savi24k@yahoo.in>
+Date:   Sun Apr 2 23:02:43 2017 +0530
+
+    Delete 3idiots
+
+commit 78bb953c7568cbbc954f8f7747d96fbc0c246c6e
+Merge: 361e975 6fbfa51
+Author: Sourish <savi24k@yahoo.in>
+Date:   Sun Apr 2 22:56:36 2017 +0530
+
+    conflict resolved
+
+commit 361e9750b312f0a6c3a4f260e26961b85050c95b
+Merge: 923d1e6 5cbb857
+Author: Sourish <savi24k@yahoo.in>
+Date:   Sun Apr 2 22:52:47 2017 +0530
+
+    Merge branch 'master' of https://github.com/sourishk/cs251-git
+
+commit 6fbfa51e7277d2ccb61e712ede1f922c75bc5800
+Merge: 26f307f 5cbb857
+Author: Akarsh Gajbhiye <Akarsh Gajbhiye>
+Date:   Sun Apr 2 22:52:47 2017 +0530
+
+    Merge branch 'master' of https://github.com/sourishk/cs251-git
+
+commit 923d1e60fa84e1cf4b2d76ce8d23518a919f9c20
+Merge: fef36c9 41b45c9
+Author: Sourish <savi24k@yahoo.in>
+Date:   Sun Apr 2 22:51:51 2017 +0530
+
+    i thought they are necessary
+
+commit 41b45c99d7b4386d4e6b1503ea2dee93de557acf
+Author: Sourish <savi24k@yahoo.in>
+Date:   Sun Apr 2 22:51:09 2017 +0530
+
+    changes by sourish
+
+commit 26f307f9a3c8f365debfc0c6bf9c541aa0ba524c
+Author: Akarsh Gajbhiye <Akarsh Gajbhiye>
+Date:   Sun Apr 2 22:50:27 2017 +0530
+
+    nothing special
+
+commit 5cbb85796c4672f96e6b82a861bd678ac2c9305c
+Merge: 9b8aca1 4fc62f3
+:
